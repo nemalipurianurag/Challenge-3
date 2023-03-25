@@ -6,6 +6,7 @@
     for k in keys:
         value = value[k]
     return value
+
 # using the function
 
 obj1 = {"a":{"b":{"c":"d"}}}
